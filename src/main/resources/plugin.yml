@@ -1,6 +1,6 @@
 name: SuperMOTD
 main: tk.complexicon.supermotd.Main
-version: 0.1
+version: 1.0.1
 folia-supported: true
 commands:
    reloadmotd:

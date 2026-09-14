@@ -4,7 +4,7 @@
 
     <groupId>tk.complexicon</groupId>
     <artifactId>SuperMOTD</artifactId>
-    <version>1.0</version>
+    <version>1.0.1</version>
     <packaging>jar</packaging>
 
     <name>SuperMOTD</name>
@@ -41,7 +41,7 @@
                             <relocations>
                                 <relocation>
                                     <pattern>net.kyori</pattern>
-                                    <shadedPattern>me.shiqui.libs.net.kyori</shadedPattern>
+                                    <shadedPattern>tk.complexicon.supermotd.lib.net.kyori</shadedPattern>
                                 </relocation>
                             </relocations>
                         </configuration>
